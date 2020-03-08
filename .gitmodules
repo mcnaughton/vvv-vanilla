@@ -1,3 +1,6 @@
 [submodule "public_html/wp-content/plugins"]
 	path = public_html/wp-content/plugins
 	url = git@github.com:mcnaughton/vvv-plugins.git
+[submodule "public_html/wp-content/themes"]
+	path = public_html/wp-content/themes
+	url = git@github.com:mcnaughton/vvv-plugins.git
