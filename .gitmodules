@@ -1,0 +1,3 @@
+[submodule "public_html/wp-content/plugins"]
+	path = public_html/wp-content/plugins
+	url = git@github.com:mcnaughton/vvv-plugins.git
